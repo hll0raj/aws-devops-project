@@ -49,7 +49,7 @@ Before starting, ensure you have:
 Access the AWS Management Console and launch a new EC2 instance running Ubuntu. This instance will serve as your Terraform server for infrastructure provisioning.
 
 **Image Reference:**
-![AWS Console Login](images/0.png)
+![AWS Console Login](./images/0.png)
 
 ---
 
